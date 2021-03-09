@@ -10,7 +10,7 @@
 </p>  
   
   
-- 🎓 Information systems 4/8
+- 🎓 Information systems 5/8
 - 💻 I’m currently learning;  Kotlin | Node.js| React.Js |
 - 🔭 Working on personal projects to improve my knowledge
 
